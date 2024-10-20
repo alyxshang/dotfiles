@@ -1,0 +1,13 @@
+* {
+    bg0:    #29344C;
+    bg1:    #333333;
+    bg2:    #3D3D3D80;
+    bg3:    #333333F2;
+    fg0:    #C0E0E1;
+    fg1:    #C0E0E1;
+    fg2:    #C0E0E1;
+    fg3:    #C0E0E1;
+    defaultFont: "Neuborn Medium Italic 15";
+}
+
+@import "rounded-common.rasi"
