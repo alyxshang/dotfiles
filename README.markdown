@@ -6,6 +6,12 @@
 
 This repository contains my dotfiles for my customized Linux desktop. This setup uses BSPWM as the window manager and SXHKD as the key-combination daemon.
 
+## SCREENSHOT :camera:
+
+<p align="center">
+ <img src="screenshot/screenie.png"/>
+</p>
+
 ## THE SOFTWARE :package:
 
 These packages can be installed with `pacman`, Arch's package manager. If specified, some of these packages can be installed from the AUR with `paru` or `yay`.
