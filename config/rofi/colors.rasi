@@ -1,12 +1,12 @@
 * {
-    bg0:    #29344C;
-    bg1:    #333333;
+    bg0:    #EDAFB6;
+    bg1:    #FFFFFF;
     bg2:    #3D3D3D80;
-    bg3:    #333333F2;
-    fg0:    #C0E0E1;
-    fg1:    #C0E0E1;
-    fg2:    #C0E0E1;
-    fg3:    #C0E0E1;
+    bg3:    #FF7BACF2;
+    fg0:    #FFFFFF;
+    fg1:    #FFFFFF;
+    fg2:    #EDAFB6;
+    fg3:    #EDAFB6;
     defaultFont: "Neuborn Medium Italic 15";
 }
 

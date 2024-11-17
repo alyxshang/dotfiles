@@ -1,6 +1,10 @@
-# DOTFILES :nail_care: :ribbon: :heart:
+# DOTFILES :dragon: :ribbon: :black_heart:
+
+***My dotfiles for my custom Linux setup. :dragon: :ribbon: :black_heart:
 
 ## ABOUT :books:
+
+This repository contains my dotfiles for my customized Linux desktop. This setup uses BSPWM as the window manager and SXHKD as the key-combination daemon.
 
 ## THE SOFTWARE :package:
 
@@ -29,8 +33,6 @@ If you are just installing Arch Linux, these are the packages you will need as a
 - Sudo Tool: `sudo`
 - File Manager: `thunar`
 - Display Server: `xorg`
-- Boot Splash Screen Tool: `plymouth`
-- A theme for Plymouth: `plymouth-theme-arch-glow` (AUR)
 - Emoji support: `noto-fonts-emoji`
 - The Rust installer: `rustup`
 - Compositor: `picom`
@@ -41,7 +43,7 @@ If you are just installing Arch Linux, these are the packages you will need as a
 - Hotkey Daemon: `sxhkd`
 - Wallpaper Tool: `nitrogen`
 - System Panel: `polybar`
-- Fetch Script: `neofetch`
+- Fetch Script: `uwufetch`
 
 ## KEY COMBINATIONS :keyboard:
 
@@ -56,15 +58,15 @@ If you are just installing Arch Linux, these are the packages you will need as a
 
 ## INSTALLATION :inbox_tray:
 
-To "install" any of these setups on your Linux installation, install the software list for the setup of your choice with the package manager(s) your system provides. Only after this has been completed, can you follow the steps provided below for the setup you would like.
+To install this setup on your Linux installation, install the packages from the list provided above.
 
 - 1.) Clone this repository using Git.
 - 2.) Move the `config` folder to your `$HOME` folder.
 - 3.) Rename the `config` folder to `.config`.
 - 4.) Move the `wallpapers` folder to your `$HOME` folder.
 - 5.) Make sure all files in the `.config ` folder ending in `.sh` are executable. (This is most important!)
-- 6.) Move the file `.xprofile` from the `neon-dragon` folder to your `$HOME` directory.
-- 7.) Start Nitrogen and add the `$HOME/wallpapers` directory as a source and set the wallpaper (`$HOME/wallpapers/01.png`).
+- 6.) Move the file `.xprofile` from the `.config` folder to your `$HOME` directory.
+- 7.) Start Nitrogen and add the `$HOME/wallpapers` directory as a source and set the wallpaper (`$HOME/wallpapers/01.jpg`).
 - 8.) Make sure to set the image-rendering mode to "Centered" in Nitrogen when setting the wallpaper.
 - 9.) Move the font file, `FiraCode-Regular.ttf`, from `fonts` directory to `/usr/local/share/fonts`. Create the `fonts` directory inside `/usr/local/share` if it does not exist.
 - 10.) Move the font file `MC.ttf` from the `fonts` directory to `/usr/local/share/fonts`. Create the `fonts` directory inside `/usr/local/share` if it does not exist.
@@ -78,5 +80,5 @@ eval "$(starship init bash)"
 
 ## NOTE :scroll:
 
-- *Dotfiles :nail_care: :ribbon: :heart:*
+- *Dotfiles :dragon: :ribbon: :black_heart:*
 - Licensed under the GNU GPL v3.
