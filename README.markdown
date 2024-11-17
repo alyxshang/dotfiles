@@ -78,7 +78,7 @@ To install this setup on your Linux installation, install the packages from the 
 - 6.) Move the file `.xprofile` from the `.config` folder to your `$HOME` directory.
 - 7.) Start Nitrogen and add the `$HOME/wallpapers` directory as a source and set the wallpaper (`$HOME/wallpapers/01.jpg`).
 - 8.) Make sure to set the image-rendering mode to "Centered" in Nitrogen when setting the wallpaper.
-- 9.) Move the font file, `FiraCode-Regular.ttf`, from `fonts` directory to `/usr/local/share/fonts`. Create the `fonts` directory inside `/usr/local/share` if it does not exist.
+- 9.) Move the font file, `FiraCode-Regular.ttf`, from the `fonts` directory to `/usr/local/share/fonts`. Create the `fonts` directory inside `/usr/local/share` if it does not exist.
 - 10.) Move the font file `MC.ttf` from the `fonts` directory to `/usr/local/share/fonts`. Create the `fonts` directory inside `/usr/local/share` if it does not exist.
 - 11.) This rice also includes my Neovim configuration.
 - 13.) Start your display manager or the X11 server.
