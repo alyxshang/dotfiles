@@ -1,6 +1,6 @@
 # DOTFILES :dragon: :ribbon: :black_heart:
 
-***My dotfiles for my custom Linux setup. :dragon: :ribbon: :black_heart:
+***My dotfiles for my custom Linux setup. :dragon: :ribbon: :black_heart:***
 
 ## ABOUT :books:
 
@@ -24,6 +24,10 @@ If you are just installing Arch Linux, these are the packages you will need as a
 - File System Extensions: `gvfs`
 - A Light Display Manager: `lightdm`
 - A Greeter for Light DM: `lightdm-gtk-greeter`
+- I2C Tools: `i2c-tools`
+- Nvidia Drivers for a 30-series card: `nvidia-open-dkms`
+- Nvidia Tools: `nvidia-settings` and `nvidia-utils`
+- Open RGB: `openrgb`
 - The "Zen" variant of the Linux Kernel: `linux-zen`
 - Linux Kernel Firmware: `linux-firmware`
 - Text Editor: `neovim`
