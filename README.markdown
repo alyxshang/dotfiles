@@ -82,9 +82,9 @@ To install this setup on your Linux installation, install the packages from the 
 - 10.) Move the font file `MC.ttf` from the `fonts` directory to `/usr/local/share/fonts`. Create the `fonts` directory inside `/usr/local/share` if it does not exist.
 - 11.) This rice also includes my Neovim configuration.
 - 13.) Start your display manager or the X11 server.
-- 13.) To use my Starship prompt and neofetch in your Bash shell, add these lines to your `.bashrc` file:
+- 13.) To use my Starship prompt and UwUfetch in your Bash shell, add these lines to your `.bashrc` file:
 ```bash
-neofetch
+uwufetch
 eval "$(starship init bash)"
 ```
 
